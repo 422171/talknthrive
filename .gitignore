@@ -34,3 +34,6 @@ coverage/
 
 # Other
 *.lock
+
+# Exclude ENG_WORDS directory
+backend/ENG_WORDS/
